@@ -1,2 +1,2 @@
-# pyplugin
-This plugin saves the attribute of selected vector layer as CSV
+# ECO-Downloader
+This tool facilitates the acquisition of data available at the website HidroWeb. The website is administered by the Agência Nacional de Águas, a Brazilian governmental agency. The plugin was developed by the Research Group on Hydro Environmental Modeling and Ecotechnologies at Universidade Federal de Santa Maria in order to give a spatial visualization of the gages and automate the download process facilitating the hydrologic studies. INVENTARIO ATUALIZADO EM: 01/09/2017
